@@ -1,3 +1,5 @@
+// From https://jonathans199.medium.com/deploy-node-js-express-api-to-vercel-dbf4461795a5
+
 const express = require('express')
 const app = express()
 
